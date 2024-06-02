@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me Telegram: @hiflise
 - 😄 Pronouns: him/he
-- ⚡ Fun fact: I still understand some English
+- ⚡ Fun fact: I like programmering woooow
 
 <!---
 Hiflis/Hiflis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
